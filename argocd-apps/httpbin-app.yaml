@@ -8,7 +8,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/wn00218760_wdp/demo-deployment.git
+    repoURL: https://github.com/AlessandroTaufer/demo-deployment.git
     targetRevision: main
     path: apps/httpbin
   destination:
