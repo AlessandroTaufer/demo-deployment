@@ -9,7 +9,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/wn00218760_wdp/demo-deployment.git
-    targetRevision: main
+    targetRevision: test-degraded
     path: argocd-apps
   destination:
     server: https://kubernetes.default.svc
